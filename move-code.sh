@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE="/Users/alfarizy/Downloads/LTV_Projection_VAS.ipynb"
+SOURCE="/Users/alfarizy/Downloads/LTV_Projection_VAS_TimeFM.ipynb"
 DESTINATION="/Users/alfarizy/Desktop/Project/ltv-projection"
 
 if [ ! -f "$SOURCE" ]; then
